@@ -11,6 +11,8 @@ Designed and implemented a database and recommendation system called Science Arc
 
 ## Getting started
 
+• To get started, clone this repository:
+
 ```bash
 git clone https://github.com/Usman-A-Iqbal/Science-Archive-Recommender-System
 ```
